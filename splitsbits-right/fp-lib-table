@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "splitsbits")(type "KiCad")(uri "/home/sven/Code/splitsbits/splitsbits.pretty")(options "")(descr ""))
+  (lib (name "splitsbits")(type "KiCad")(uri "C:/Users/spenc/Code/splitsbits/splitsbits.pretty")(options "")(descr ""))
 )
